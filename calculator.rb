@@ -3,7 +3,6 @@
 first_number =3 
 second_number =5
 
-
 puts sum = first_number + second_numbder
 puts difference = first_number - second_number
 puts product = first_number * second_number
