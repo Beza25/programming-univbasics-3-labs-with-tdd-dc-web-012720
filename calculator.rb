@@ -13,5 +13,5 @@ def get_variable_from_file (first_number, second_number)
     exit
 end
   
-#get_variable_from_file(first_number, second_number)
+get_variable_from_file(first_number, second_number)
   
